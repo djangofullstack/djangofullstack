@@ -10,7 +10,7 @@
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="djangofullstack" /> </p>
-#👩🏽‍💻Languages and Tools
+Languages and Tools
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
