@@ -14,7 +14,6 @@
 - ⚡I love technology **and enjoy, coding and creating web and mobile apps**
 - 👯 I'm open to work with companies in a constructive ways
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
@@ -32,9 +31,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=djangofullstack&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ### 😂 Fun Facts "I am funny"
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; width:500px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=djangofullstack&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
  
