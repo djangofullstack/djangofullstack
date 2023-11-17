@@ -1,10 +1,7 @@
 ![Master head](https://imgs.search.brave.com/LdCZ_eJYR0xIcARDd56TLCaoNvkZmT-0d4mqqXn7ws0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29uZnVz/ZWQtd29tYW4tY29k/aW5nLWZhaWwtMXVn/c3h4OGM2Z3VkdHpr/ci5naWY.gif)
 
 
-
 # 💫 About Me
-<br>    A Cross Platform & Full Stack Developer, based in Paris<br>⚡I love technology and enjoy, coding and creating web and mobile apps<br>    👯 I'm open to work with companies in a constructive ways<br>
-
 
 <h1 align="center">Hi there 👋, I'm </h1>
 <h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
