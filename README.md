@@ -24,6 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djangofullstack&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djangofullstack&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -31,7 +32,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=djangofullstack&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ### 😂 Fun Facts "I am funny"
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/djangofullstack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/djangofullstack)  
