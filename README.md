@@ -28,9 +28,6 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=djangofullstack&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 ### 😂 Fun Facts "I am funny"
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
 
