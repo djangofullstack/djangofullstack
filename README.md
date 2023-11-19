@@ -10,11 +10,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
-
+<p align="center">
 - ⚡I love technology and enjoy, coding and creating web apps and mobile apps. I really enjoy sharpening my skills mobile development, by learning some langages like python and javascript as well as exploring some frameworks like react, react native, django and djangorest framework.
 - 👯 I'm open to work with companies in a constructive ways
 
-<p align="center">
+
 </p>
 
 # 💻 Tech Stack
@@ -31,7 +31,7 @@
 ### 😂 Fun Facts "I am funny"
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 
 
