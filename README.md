@@ -10,8 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
 <p align="center">
-- ⚡I love technology and enjoy, coding and creating web apps and mobile apps. I really enjoy sharpening my skills mobile development, by learning some langages like python and javascript as well as exploring some frameworks like react, react native, django and djangorest framework.
-- 👯 I'm open to work with companies in a constructive ways
+⚡I love technology and enjoy, coding and creating web apps and mobile apps. I really enjoy sharpening my skills mobile development, by learning some langages like python and javascript as well as exploring some frameworks like react, react native, django and djangorest framework.
+👯 I'm open to work with companies in a constructive ways
 
 
 
