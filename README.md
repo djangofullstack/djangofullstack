@@ -27,7 +27,6 @@
 
 
 
-
 <h1 align="center"> </h1>
  <h1 align="center">✍️ Dev Quote</h1>
 
@@ -40,13 +39,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
 
 
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
