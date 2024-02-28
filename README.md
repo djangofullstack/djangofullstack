@@ -1,12 +1,14 @@
 ![Master head](https://imgs.search.brave.com/LdCZ_eJYR0xIcARDd56TLCaoNvkZmT-0d4mqqXn7ws0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29uZnVz/ZWQtd29tYW4tY29k/aW5nLWZhaWwtMXVn/c3h4OGM2Z3VkdHpr/ci5naWY.gif)
 
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </h1>
 
-<h1 align="center">💫 About Me </h1>
+
+<h1 align="right">💫 About Me </h1>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </h1>
 <h1 align="center">Hi there 👋, I'm </h1>
 <h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
 
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
+
 
 
 <p align="center">
@@ -22,6 +24,8 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 
 ### 😂 Fun Facts "I am funny"
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
