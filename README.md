@@ -15,8 +15,10 @@
  like python and javascript as well as exploring some frameworks like react, 
  react native, django and djangorest framework.
 👯 I'm open to work with companies in a constructive ways
+</p>
 
 
+<h1 align="center"> </h1>
 
 <h1 align="center"> 💻 Tech Stack</h1>
 
@@ -24,14 +26,18 @@
 
 
 
+
+<h1 align="center"> </h1>
  <h1 align="center">✍️ Dev Quote</h1>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<h1 align="center"> </h1>
+
  <h1 align="center">😂 Fun Facts "I am funny"</h1>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
 
-
+<h1 align="center"> </h1>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
