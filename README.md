@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
 
-# 💫 About Me
 
+<h1 align="center"># 💫 About Me </h1>
 <h1 align="center">Hi there 👋, I'm </h1>
 <h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
 
