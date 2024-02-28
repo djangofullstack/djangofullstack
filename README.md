@@ -30,7 +30,7 @@
 <h1 align="center"> </h1>
  <h1 align="center">✍️ Dev Quote</h1>
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h1 align="center"> </h1>
 
