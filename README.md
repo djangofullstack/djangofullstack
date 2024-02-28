@@ -1,5 +1,6 @@
 ![Master head](https://imgs.search.brave.com/LdCZ_eJYR0xIcARDd56TLCaoNvkZmT-0d4mqqXn7ws0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29uZnVz/ZWQtd29tYW4tY29k/aW5nLWZhaWwtMXVn/c3h4OGM2Z3VkdHpr/ci5naWY.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
 
 # 💫 About Me
 
@@ -8,7 +9,9 @@
 
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
+
+
+
 <p align="center">
 ⚡I love technology and enjoy, coding and creating web apps and mobile apps. I really enjoy sharpening my skills mobile development, by learning some langages like python and javascript as well as exploring some frameworks like react, react native, django and djangorest framework.
 👯 I'm open to work with companies in a constructive ways
