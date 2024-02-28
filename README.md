@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm </h1>
 <h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
 
-<img align="center" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
+<img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
 
 <p align="left">
@@ -15,9 +15,8 @@
  like python and javascript as well as exploring some frameworks like react, 
  react native, django and djangorest framework.
 👯 I'm open to work with companies in a constructive ways
-</p>
 
-<h3 align="center"></h3>
+
 
 <h1 align="center"> 💻 Tech Stack</h1>
 
