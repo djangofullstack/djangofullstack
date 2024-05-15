@@ -34,11 +34,6 @@
 
 <h1 align="center"> </h1>
 
-
- <h1 align="center">😂 Fun Facts "I am funny"</h1>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px;" />
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
