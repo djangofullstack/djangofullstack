@@ -1,6 +1,6 @@
-![Master head](https://imgs.search.brave.com/LdCZ_eJYR0xIcARDd56TLCaoNvkZmT-0d4mqqXn7ws0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29uZnVz/ZWQtd29tYW4tY29k/aW5nLWZhaWwtMXVn/c3h4OGM2Z3VkdHpr/ci5naWY.gif)
-# 👋 Hi there, I'm  A Cross Platform & Full Stack Developer
+<img src="hero.gif" alt="GitHub Banner" width="100%" />
 
+# 👋 Hi there, I'm  A Cross Platform & Full Stack Developer
 
 ## ⚡👩🏽‍💻 Based in Paris, I love ❤️ technology. 
 ## 👯 I enjoy, coding and creating web apps and mobile apps. Seeking for a new job opportunity to use my skills, I am ready for new challenges and the chance to make an impact in another position. I'm open to work with companies in a constructive ways!
@@ -35,7 +35,11 @@ Languages and Tools
 <img align="left" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djangofullstack/djangofullstack/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djangofullstack/djangofullstack/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/djangofullstack/djangofullstack/output/github-snake.svg" />
+</picture>
 
 
 
