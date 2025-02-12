@@ -9,7 +9,7 @@
 
 <p align="left">
   I'm a passionate Full-Stack Developer who loves building end-to-end applications with modern technologies. From designing sleek front-end interfaces to building scalable back-end systems, I enjoy the entire process of creating powerful software.
-⚡ I enjoy ❤️ technology and have a deep love for coding, whether it's building web applications or creating mobile apps. 
+⚡ I enjoy ❤️ technology and have a deep love for coding, whether it's building web applications or creating mobile apps. I am currently working on my own [webpage](https://www.djangofullstack.com)<br>
 👯 I'm always open to collaborating with companies in a constructive, innovative way to drive projects forward, deliver high-quality solutions, and contribute to meaningful growth.
 </p>
 
