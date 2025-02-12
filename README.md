@@ -1,20 +1,15 @@
-![Master head](https://imgs.search.brave.com/LdCZ_eJYR0xIcARDd56TLCaoNvkZmT-0d4mqqXn7ws0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29uZnVz/ZWQtd29tYW4tY29k/aW5nLWZhaWwtMXVn/c3h4OGM2Z3VkdHpr/ci5naWY.gif)
+<img src="hero.gif" alt="GitHub Banner" width="100%" />
 
-
-<h1 align="center">💫 About Me </h1>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=djangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="djangofullstack" /> </h1>
-<h1 align="center">Hi there 👋, I'm </h1>
-<h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center"> I'm  A Cross Platform & Full Stack Developer, based in Paris</h3>
 
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
 
 <p align="left">
-⚡I love technology and enjoy, coding and creating web apps and mobile apps. 
- I really enjoy sharpening my skills mobile development, by learning some langages 
- like python and javascript as well as exploring some frameworks like react, 
- react native, django and djangorest framework.
-👯 I'm open to work with companies in a constructive ways
+⚡ I'm passionate about technology and have a deep love for coding, whether it's building web applications or creating mobile apps. I thrive on the challenge of sharpening my development skills, particularly in mobile development. Currently, I'm diving deeper into languages like Python and JavaScript while exploring frameworks such as React, React Native, Django, and the Django REST Framework to create powerful, scalable applications.
+👯 I'm always open to collaborating with companies in a constructive, innovative way to drive projects forward, deliver high-quality solutions, and contribute to meaningful growth.
 </p>
 
 <h1 align="center"> </h1>
