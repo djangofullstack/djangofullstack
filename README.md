@@ -29,7 +29,7 @@
 
 <h1 align="center"> </h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 
