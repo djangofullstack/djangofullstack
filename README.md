@@ -9,7 +9,6 @@
 
 <p align="left">
   Building end-to-end applications with modern technologies. From designing sleek front-end interfaces to building scalable back-end systems, I enjoy the entire process of creating powerful software.
-<p>⚡I am currently working on my own webpage https://www.djangofullstack.com </p>
 👯 I'm always open to collaborating with companies in a constructive, innovative way to drive projects forward, deliver high-quality solutions, and contribute to meaningful growth.
 </p>
 
